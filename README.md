@@ -1,17 +1,10 @@
-# SHA256-8119b8d5900120e813188d779d10c1acc4cd08f5b5423e0d133f1b9c994e9ba6
-SHA256: 8119b8d5900120e813188d779d10c1acc4cd08f5b5423e0d133f1b9c994e9ba6
-{
-  "human_pretty": "MH8-Acbeatz.com — MH8 Graffiti Mint UI\nReceipt: Archetype Mint (dual-layer)\nArchetype: MH8=LOVE=>8<=<8>=(0)\nLogic: MY SONG HERE\nTimestamp: 2025-12-26T15:22:42.240Z\nSHA256: 699d40d5fc3c31ed283f8d5bacc1d11864dc55e9003dc1f6264bda7cd0b36e28\nBrand: MH8-Acbeatz.com\nCrypto receipt: ✅ Complete (local SHA-256)\nCourt / audit / dispute: ✅ Strong baseline (pair with artifact)\nIntegrity rule: NON-COPIABLE WHEN HASH-CHAIN BROKEN\n© 2026 MH8-Graffiti by Acbeatz.com — All rights reserved.",
-  "machine_hard": {
-    "mh8_system": "MH8-Acbeatz.com",
-    "brand": "MH8-Acbeatz.com",
-    "created_utc": "2025-12-26T15:22:42.240Z",
-    "integrity_rule": "NON-COPIABLE WHEN HASH-CHAIN BROKEN",
-    "core_payload": {
-      "mh8_system": "MH8-GRAFFITI",
-      "receipt_type": "MH8-GRAFFITI-ARCHETYPE-MINT",
-      "receipt_version": "GRAFFITI_UI_V7.4",
-      "created_utc": "2025-12-26T15:22:42.240Z",
+PASS ✅
+Brand: MH8-Acbeatz.com
+Claimed sha256_hex: dc60333de095dbaf98d5e4c884bc22da015511ef5e54b6aa65ebc9dbfe815df3
+Computed sha256_hex: dc60333de095dbaf98d5e4c884bc22da015511ef5e54b6aa65ebc9dbfe815df3
+hash_input_bytes: 252 | LF=0 CRLF=0 CR=0 | endsWithNewline=NO
+hash_input first: MH8-Acbeatz.com|{"artifact":{"archetype":"MH8=LOVE=>8<=<8>=(0)","badge":null,"lo
+hash_input last: eceipt_type":"MH8-GRAFFITI-ARCHETYPE-MINT","receipt_version":"GRAFFITI_UI_V7.4"}d_utc": "2025-12-26T15:22:42.240Z",
       "artifact": {
         "archetype": "MH8=LOVE=>8<=<8>=(0)",
         "logic": [
